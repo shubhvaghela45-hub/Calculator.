@@ -4,7 +4,7 @@ Project Overview
 The Interactive Calculator is a modern, web-based calculator application built with HTML, CSS, and JavaScript. It performs basic arithmetic operations and features visually appealing animations and interactive background effects like floating particles and droplets.
 
 ## 📸 Demo / Live Link  
-🔗 **Live Preview:**   
+🔗 **Live Preview:** https://shubhvaghela45-hub.github.io/Calculator./
 📂 **Repository Link:** 
 
 ---
@@ -30,7 +30,7 @@ The Interactive Calculator is a modern, web-based calculator application built w
 
 ```bash
 # Clone repo
-git clone https://github.com/yourusername/repo.git
+git clone 
 
 ```bash
 
@@ -82,3 +82,4 @@ If you like this project, please ⭐ the repo!
 
 
 --  {^_^}  --
+
